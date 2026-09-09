@@ -1,1 +1,1 @@
-# -lcs-telefire-automation.
+# lcs-telefire-automation
